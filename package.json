@@ -1,0 +1,19 @@
+{
+  "name": "twitter-bus",
+  "version": "0.0.0",
+  "description": "Bus.io Express Demo with Twitter Passports",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.4.1",
+    "bus.io": "*",
+    "cookie-parser": "^1.1.0",
+    "express-session": "^1.2.1",
+    "connect-redis": "^2.0.0",
+    "connect": "^2.19.4"
+  }
+}
